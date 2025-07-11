@@ -66,7 +66,7 @@ Ready to dive into this project? Follow these steps to run or customize it:
 ## 🔗 Links
 Explore the demo or adapt it for your own use:
 - 🐙 [GitHub Repository](https://github.com/nisargvekariya01/Social_Links_Profiles)
-- 🌐 [Live Demo](Add your deployed link here!)
+- 🌐 [Live Demo](https://social-link-profiles-nisarg07.netlify.app/)
 
 ---
 
