@@ -32,7 +32,7 @@ Ready to dive into this project? Follow these steps to run or customize it:
 
 1. **Clone the Repository** 🐙
    ```bash
-   git clone https://github.com/nisargvekariya01/Social_Links_Profiles/tree/main
+   git clone https://github.com/nisargvekariya01/Social_Links_Profiles
    ```
 
 2. **Open the Project** 📂
@@ -65,7 +65,7 @@ Ready to dive into this project? Follow these steps to run or customize it:
 
 ## 🔗 Links
 Explore the demo or adapt it for your own use:
-- 🐙 [GitHub Repository](https://github.com/nisargvekariya01/Social_Links_Profiles/tree/main)
+- 🐙 [GitHub Repository](https://github.com/nisargvekariya01/Social_Links_Profiles)
 - 🌐 [Live Demo](https://social-link-profiles-nisarg07.netlify.app/)
 
 ---
